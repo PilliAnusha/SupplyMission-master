@@ -1,3 +1,0 @@
-class gopi{
-    //testing anusha
-}
