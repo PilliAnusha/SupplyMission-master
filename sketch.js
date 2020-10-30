@@ -47,12 +47,13 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background("blue");
   packageSprite.x= packageBody.position.x 
   packageSprite.y= packageBody.position.y 
   drawSprites();
  
 }
+
 
 function keyPressed() {
  if (keyCode === DOWN_ARROW) {
